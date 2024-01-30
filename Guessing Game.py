@@ -71,7 +71,7 @@ while Answer_4 != question_4 and not(guess_limit_ends):
      if   guess_count < guess_limit :
       Answer_4 = input("Answer: ")
 
-print ("(50*6) - (4*5)")
+print ("(50*16) - (4*5)")
 while Answer_5 != question_5 and not(guess_limit_ends):
      if   guess_count < guess_limit :
       Answer_5 = input("Answer: ")
